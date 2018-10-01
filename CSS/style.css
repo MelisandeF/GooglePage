@@ -141,7 +141,6 @@ li.nav-links a:hover {
 	flex-direction: row-reverse;
 }
 
-<<<<<<< HEAD
 .footer-bar{
 	display: flex;
 	width: 100%;
@@ -149,6 +148,7 @@ li.nav-links a:hover {
 	flex-direction: column;
 	color: rgb(102, 102, 102);
 	font-size: 12px;
+	margin-right: 20px;
 }
 
 .footer-one{
