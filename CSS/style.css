@@ -4,7 +4,17 @@ display: flex;
 justify-content: center;
 align-items : center;
 flex-direction: column;
+margin: 10%;
 
+}
+
+.logo{
+	width: 275px;
+	height: 130px;
+}
+
+.logo img{
+	max-width: 100%;
 }
 
 .search{
@@ -19,6 +29,14 @@ display: flex;
 justify-content: center;
 }
 
+.search-bar input{
+	width: 100%;
+}
+
+form {width: 100%;
+}
+
+
 .buttons{
 display: flex;
 justify-content: center;
@@ -29,4 +47,5 @@ flex-wrap: nowrap;
 display: block;
 align-items: center;
 justify-content: center;
+background-color: rgb(248, 248, 248);
 }
