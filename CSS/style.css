@@ -15,11 +15,12 @@ align-items: center;
 }
 
 .search-bar {
-display: block;
+display: flex;
+justify-content: center;
 }
 
 .buttons{
-display: block;
+display: flex;
 justify-content: center;
 flex-wrap: nowrap;
 }
